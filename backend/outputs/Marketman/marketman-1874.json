@@ -1,0 +1,65 @@
+{
+  "studio_id": 6,
+  "studio_name": "Marketman",
+  "document_id": 12,
+  "source_filename": "marketman-1874.pdf",
+  "extracted_fields": {
+    "Customer_Name": "Spiritland Ltd- Kings cross",
+    "PO_Number": "30548998",
+    "PO_Date": "2026-01-13",
+    "Delivery_Address": "9-10 Stable Street, London, N1C4AB",
+    "Delivery_Date": "2026-01-15",
+    "Invoice_Address": "",
+    "Product_Details": [
+      {
+        "Product Code": "FOOD/LUX1",
+        "Product Description": "Luxardo Marachino Cherries 400 gr",
+        "Quantity Ordered": "1"
+      },
+      {
+        "Product Code": "HLPOB.12YOV8",
+        "Product Description": "Highland Park 12yo / Viking Honour / 40% / 70cl (1 * 0.7 L)",
+        "Quantity Ordered": "1"
+      },
+      {
+        "Product Code": "JAPAN/SUN15",
+        "Product Description": "Toki Suntory / 43% / 70cl (1 * 0.7 L)",
+        "Quantity Ordered": "2"
+      },
+      {
+        "Product Code": "MEZCAL/OJO3",
+        "Product Description": "Ojo de Dios Mezcal (1 * 0.7 L)",
+        "Quantity Ordered": "1"
+      },
+      {
+        "Product Code": "SOFT/FEV6",
+        "Product Description": "Fever Tree Soda Water / **24x20cl** (24 * 0.2 L)",
+        "Quantity Ordered": "2"
+      },
+      {
+        "Product Code": "SOFT/OPI1",
+        "Product Description": "Opius Nigredo (1 * 0.5 L)",
+        "Quantity Ordered": "1"
+      },
+      {
+        "Product Code": "SOFT/SMI5",
+        "Product Description": "Smiling Wolf Functional Rum 0% (1 * 0.7 L)",
+        "Quantity Ordered": "1"
+      },
+      {
+        "Product Code": "VODKA/EAS2",
+        "Product Description": "East London Vodka (1 * 0.7 L)",
+        "Quantity Ordered": "1"
+      }
+    ],
+    "Account_Code": "001874",
+    "Delivery_Address_Name": "Spiritland Ltd- Kings cross",
+    "order_type": "Order"
+  },
+  "usage": {
+    "prompt_tokens": 2245,
+    "completion_tokens": 3786,
+    "total_tokens": 6031
+  },
+  "raw_output": "{\n  \"Customer_Name\": \"Spiritland Ltd- Kings cross\",\n  \"PO_Number\": \"30548998\",\n  \"PO_Date\": \"2026-01-13\",\n  \"Delivery_Address\": \"9-10 Stable Street, London, N1C4AB\",\n  \"Delivery_Date\": \"2026-01-15\",\n  \"Invoice_Address\": \"\",\n  \"Product_Details\": [\n    {\n      \"Product Code\": \"FOOD/LUX1\",\n      \"Product Description\": \"Luxardo Marachino Cherries 400 gr\",\n      \"Quantity Ordered\": \"1\"\n    },\n    {\n      \"Product Code\": \"HLPOB.12YOV8\",\n      \"Product Description\": \"Highland Park 12yo / Viking Honour / 40% / 70cl (1 * 0.7 L)\",\n      \"Quantity Ordered\": \"1\"\n    },\n    {\n      \"Product Code\": \"JAPAN/SUN15\",\n      \"Product Description\": \"Toki Suntory / 43% / 70cl (1 * 0.7 L)\",\n      \"Quantity Ordered\": \"2\"\n    },\n    {\n      \"Product Code\": \"MEZCAL/OJO3\",\n      \"Product Description\": \"Ojo de Dios Mezcal (1 * 0.7 L)\",\n      \"Quantity Ordered\": \"1\"\n    },\n    {\n      \"Product Code\": \"SOFT/FEV6\",\n      \"Product Description\": \"Fever Tree Soda Water / **24x20cl** (24 * 0.2 L)\",\n      \"Quantity Ordered\": \"2\"\n    },\n    {\n      \"Product Code\": \"SOFT/OPI1\",\n      \"Product Description\": \"Opius Nigredo (1 * 0.5 L)\",\n      \"Quantity Ordered\": \"1\"\n    },\n    {\n      \"Product Code\": \"SOFT/SMI5\",\n      \"Product Description\": \"Smiling Wolf Functional Rum 0% (1 * 0.7 L)\",\n      \"Quantity Ordered\": \"1\"\n    },\n    {\n      \"Product Code\": \"VODKA/EAS2\",\n      \"Product Description\": \"East London Vodka (1 * 0.7 L)\",\n      \"Quantity Ordered\": \"1\"\n    }\n  ],\n  \"Account_Code\": \"001874\",\n  \"Delivery_Address_Name\": \"Spiritland Ltd- Kings cross\",\n  \"order_type\": \"Order\"\n}"
+}

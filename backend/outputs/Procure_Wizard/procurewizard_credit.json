@@ -1,0 +1,32 @@
+{
+  "studio_id": 3,
+  "studio_name": "Procure Wizard",
+  "document_id": 20,
+  "source_filename": "procurewizard_credit.pdf",
+  "extracted_fields": {
+    "Customer_Name": "The Balmoral Hotel Edinburgh",
+    "PO_Number": "46261252",
+    "PO_Date": "",
+    "Delivery_Address": "",
+    "Delivery_Date": "",
+    "Invoice_Address": "",
+    "Product_Details": [
+      {
+        "Product Code": "VODKA/STO6",
+        "Product Description": "Vodka \\ Alcoholic Beverages Stolichnaya Vanilla Vodka Purchaser Comment: Price Dispute: PO £17.30 : INV £19.45",
+        "Quantity Ordered": "4"
+      }
+    ],
+    "Customer_Notes": "Original Order: 46204873 - Original Invoice: 4520628 - Invoice Date: 26/11/2025 price doesn't match pw- please can you check",
+    "Account_Code": "",
+    "Site_Name": "The Balmoral Hotel",
+    "Purchaser_Name": "Suzanne - F&B Controller Murray",
+    "order_type": "Credit"
+  },
+  "usage": {
+    "prompt_tokens": 3088,
+    "completion_tokens": 3866,
+    "total_tokens": 6954
+  },
+  "raw_output": "{\n  \"Customer_Name\": \"The Balmoral Hotel Edinburgh\",\n  \"PO_Number\": \"46261252\",\n  \"PO_Date\": \"\",\n  \"Delivery_Address\": \"\",\n  \"Delivery_Date\": \"\",\n  \"Invoice_Address\": \"\",\n  \"Product_Details\": [\n    {\n      \"Product Code\": \"VODKA/STO6\",\n      \"Product Description\": \"Vodka \\\\ Alcoholic Beverages Stolichnaya Vanilla Vodka Purchaser Comment: Price Dispute: PO £17.30 : INV £19.45\",\n      \"Quantity Ordered\": \"4\"\n    }\n  ],\n  \"Customer_Notes\": \"Original Order: 46204873 - Original Invoice: 4520628 - Invoice Date: 26/11/2025 price doesn't match pw- please can you check\",\n  \"Account_Code\": \"\",\n  \"Site_Name\": \"The Balmoral Hotel\",\n  \"Purchaser_Name\": \"Suzanne - F&B Controller Murray\",\n  \"order_type\": \"Credit\"\n}"
+}

@@ -1,0 +1,147 @@
+{
+  "studio_id": 3,
+  "studio_name": "Procure Wizard",
+  "document_id": 4,
+  "source_filename": "procurewizard.pdf",
+  "extracted_fields": {
+    "Customer_Name": "Oriole Bar Ltd",
+    "PO_Number": "47070296",
+    "PO_Date": "2026-01-13",
+    "Delivery_Address": "Oriole Bar, 7-9 Slingsby Place, St. Martin's Courtyard, London WC2E 9AB",
+    "Delivery_Date": "2026-01-14",
+    "Invoice_Address": "Oriole, 7-9 Slingsby Pl, St. Martin's Courtyard, London WC2E 9AB",
+    "Product_Details": [
+      {
+        "Product Code": "GIN/TAN44",
+        "Product Description": "Gin \\ Alcoholic Beverages Tanqueray London Dry Gin : 41.3%",
+        "Quantity Ordered": "3"
+      },
+      {
+        "Product Code": "BRBON/ELI13",
+        "Product Description": "Bourbon / American Whiskey \\ Alcoholic Beverages Elijah Craig Straight Rye Whiskey : 47%",
+        "Quantity Ordered": "6"
+      },
+      {
+        "Product Code": "TEQLA/DON1",
+        "Product Description": "Tequila \\ Alcoholic Beverages Blanco : Tequila : Don Julio",
+        "Quantity Ordered": "3"
+      },
+      {
+        "Product Code": "MEZCAL/MON2",
+        "Product Description": "Tequila \\ Alcoholic Beverages Montelobos Espadin Mezcal : Joven",
+        "Quantity Ordered": "3"
+      },
+      {
+        "Product Code": "BALOB.12YO",
+        "Product Description": "Whisky \\ Alcoholic Beverages Balvenie Double Wood : Whisky : 12YO : 40%",
+        "Quantity Ordered": "1"
+      },
+      {
+        "Product Code": "LIQ/FER1",
+        "Product Description": "Liqueurs & Other \\ Alcoholic Beverages Pierre Ferrand : Dry Curacao : Triple Sec",
+        "Quantity Ordered": "1"
+      },
+      {
+        "Product Code": "SOFT/EVE2",
+        "Product Description": "Liqueurs & Other \\ Alcoholic Beverages Everleaf Non Alcoholic Spirit : Mountain",
+        "Quantity Ordered": "2"
+      },
+      {
+        "Product Code": "LIQ/QUA4",
+        "Product Description": "Liqueurs & Other \\ Alcoholic Beverages Antica Distilleria Quaglia Liquore di Nocciola : 25%",
+        "Quantity Ordered": "1"
+      },
+      {
+        "Product Code": "GIN/HER4",
+        "Product Description": "Gin \\ Alcoholic Beverages Own Brand Herno Old Tom : Gin",
+        "Quantity Ordered": "1"
+      },
+      {
+        "Product Code": "VERMO/MAN1",
+        "Product Description": "Martini/Vermouth \\ Alcoholic Beverages Mancino Bianco : Ambrato",
+        "Quantity Ordered": "1"
+      },
+      {
+        "Product Code": "LIQ/PAL2",
+        "Product Description": "Liqueurs & Other \\ Alcoholic Beverages Pallini : Limoncello",
+        "Quantity Ordered": "2"
+      },
+      {
+        "Product Code": "LIQ/UME1",
+        "Product Description": "Sake \\ Alcoholic Beverages UMENOYADO Yuzu Sake : 8%",
+        "Quantity Ordered": "3"
+      },
+      {
+        "Product Code": "RUM/TRO21",
+        "Product Description": "Rum \\ Alcoholic Beverages Trois RiviÃ¨res Rum : 42% : Cuvee de L'Ocean",
+        "Quantity Ordered": "1"
+      },
+      {
+        "Product Code": "GIN/PRO1",
+        "Product Description": "Gin \\ Alcoholic Beverages Squires Del Professore Madame : Gin",
+        "Quantity Ordered": "1"
+      },
+      {
+        "Product Code": "SOFT/FEV55",
+        "Product Description": "Mixers / Juices \\ Soft Drinks Fever Tree Refreshingly Light Madagascan : Cola : NRB",
+        "Quantity Ordered": "1"
+      },
+      {
+        "Product Code": "VERMO/VAU7",
+        "Product Description": "Martini/Vermouth \\ Alcoholic Beverages Vault Aperitivo Dry Vermouth : 17.6% : Coastal",
+        "Quantity Ordered": "2"
+      },
+      {
+        "Product Code": "SHERRY/GON9",
+        "Product Description": "Sherry \\ Alcoholic Beverages Gonzalez Byass Sherry : 18% : Alfonso Oloroso Seco",
+        "Quantity Ordered": "1"
+      },
+      {
+        "Product Code": "BRBON/HOR1",
+        "Product Description": "Bourbon / American Whiskey \\ Alcoholic Beverages Horse With No Name Bourbon with Habanero Spirit : 45%",
+        "Quantity Ordered": "1"
+      },
+      {
+        "Product Code": "LIQ/KAK2",
+        "Product Description": "Liqueurs & Other \\ Alcoholic Beverages Kakuzo Cherry Bitter : 20%",
+        "Quantity Ordered": "2"
+      },
+      {
+        "Product Code": "WINE/RUB1",
+        "Product Description": "Flavoured Wine \\ Wine & Champagne Rubis Temperanillo : 15% : Chocolate Velvet Ruby",
+        "Quantity Ordered": "1"
+      },
+      {
+        "Product Code": "LIQ/EVA14",
+        "Product Description": "Liqueurs & Other \\ Alcoholic Beverages Evangelista Punch Abruzzo : Liqueur : 45%",
+        "Quantity Ordered": "1"
+      },
+      {
+        "Product Code": "VERMO/ZUC1",
+        "Product Description": "Alcoholic Beverages (Spirits, Liquers, etc.) \\ Drinks Zucca Rabarbaro (Italy) / 16%",
+        "Quantity Ordered": "1"
+      },
+      {
+        "Product Code": "BRANDY/SIN1",
+        "Product Description": "Brandy \\ Alcoholic Beverages Singani 63 : Brandy : 40% : (Bolivia)",
+        "Quantity Ordered": "3"
+      },
+      {
+        "Product Code": "EAU/EMP12",
+        "Product Description": "Liqueurs & Other \\ Alcoholic Beverages Empirical Spirits Symphony 6 : 40%",
+        "Quantity Ordered": "1"
+      }
+    ],
+    "Customer_Notes": "",
+    "Account_Code": "006013",
+    "Site_Name": "Oriole Bar Ltd",
+    "Purchaser_Name": "Samet Ali",
+    "order_type": "Order"
+  },
+  "usage": {
+    "prompt_tokens": 4604,
+    "completion_tokens": 7506,
+    "total_tokens": 12110
+  },
+  "raw_output": "{\n  \"Customer_Name\": \"Oriole Bar Ltd\",\n  \"PO_Number\": \"47070296\",\n  \"PO_Date\": \"2026-01-13\",\n  \"Delivery_Address\": \"Oriole Bar, 7-9 Slingsby Place, St. Martin's Courtyard, London WC2E 9AB\",\n  \"Delivery_Date\": \"2026-01-14\",\n  \"Invoice_Address\": \"Oriole, 7-9 Slingsby Pl, St. Martin's Courtyard, London WC2E 9AB\",\n  \"Product_Details\": [\n    {\n      \"Product Code\": \"GIN/TAN44\",\n      \"Product Description\": \"Gin \\\\ Alcoholic Beverages Tanqueray London Dry Gin : 41.3%\",\n      \"Quantity Ordered\": \"3\"\n    },\n    {\n      \"Product Code\": \"BRBON/ELI13\",\n      \"Product Description\": \"Bourbon / American Whiskey \\\\ Alcoholic Beverages Elijah Craig Straight Rye Whiskey : 47%\",\n      \"Quantity Ordered\": \"6\"\n    },\n    {\n      \"Product Code\": \"TEQLA/DON1\",\n      \"Product Description\": \"Tequila \\\\ Alcoholic Beverages Blanco : Tequila : Don Julio\",\n      \"Quantity Ordered\": \"3\"\n    },\n    {\n      \"Product Code\": \"MEZCAL/MON2\",\n      \"Product Description\": \"Tequila \\\\ Alcoholic Beverages Montelobos Espadin Mezcal : Joven\",\n      \"Quantity Ordered\": \"3\"\n    },\n    {\n      \"Product Code\": \"BALOB.12YO\",\n      \"Product Description\": \"Whisky \\\\ Alcoholic Beverages Balvenie Double Wood : Whisky : 12YO : 40%\",\n      \"Quantity Ordered\": \"1\"\n    },\n    {\n      \"Product Code\": \"LIQ/FER1\",\n      \"Product Description\": \"Liqueurs & Other \\\\ Alcoholic Beverages Pierre Ferrand : Dry Curacao : Triple Sec\",\n      \"Quantity Ordered\": \"1\"\n    },\n    {\n      \"Product Code\": \"SOFT/EVE2\",\n      \"Product Description\": \"Liqueurs & Other \\\\ Alcoholic Beverages Everleaf Non Alcoholic Spirit : Mountain\",\n      \"Quantity Ordered\": \"2\"\n    },\n    {\n      \"Product Code\": \"LIQ/QUA4\",\n      \"Product Description\": \"Liqueurs & Other \\\\ Alcoholic Beverages Antica Distilleria Quaglia Liquore di Nocciola : 25%\",\n      \"Quantity Ordered\": \"1\"\n    },\n    {\n      \"Product Code\": \"GIN/HER4\",\n      \"Product Description\": \"Gin \\\\ Alcoholic Beverages Own Brand Herno Old Tom : Gin\",\n      \"Quantity Ordered\": \"1\"\n    },\n    {\n      \"Product Code\": \"VERMO/MAN1\",\n      \"Product Description\": \"Martini/Vermouth \\\\ Alcoholic Beverages Mancino Bianco : Ambrato\",\n      \"Quantity Ordered\": \"1\"\n    },\n    {\n      \"Product Code\": \"LIQ/PAL2\",\n      \"Product Description\": \"Liqueurs & Other \\\\ Alcoholic Beverages Pallini : Limoncello\",\n      \"Quantity Ordered\": \"2\"\n    },\n    {\n      \"Product Code\": \"LIQ/UME1\",\n      \"Product Description\": \"Sake \\\\ Alcoholic Beverages UMENOYADO Yuzu Sake : 8%\",\n      \"Quantity Ordered\": \"3\"\n    },\n    {\n      \"Product Code\": \"RUM/TRO21\",\n      \"Product Description\": \"Rum \\\\ Alcoholic Beverages Trois RiviÃ¨res Rum : 42% : Cuvee de L'Ocean\",\n      \"Quantity Ordered\": \"1\"\n    },\n    {\n      \"Product Code\": \"GIN/PRO1\",\n      \"Product Description\": \"Gin \\\\ Alcoholic Beverages Squires Del Professore Madame : Gin\",\n      \"Quantity Ordered\": \"1\"\n    },\n    {\n      \"Product Code\": \"SOFT/FEV55\",\n      \"Product Description\": \"Mixers / Juices \\\\ Soft Drinks Fever Tree Refreshingly Light Madagascan : Cola : NRB\",\n      \"Quantity Ordered\": \"1\"\n    },\n    {\n      \"Product Code\": \"VERMO/VAU7\",\n      \"Product Description\": \"Martini/Vermouth \\\\ Alcoholic Beverages Vault Aperitivo Dry Vermouth : 17.6% : Coastal\",\n      \"Quantity Ordered\": \"2\"\n    },\n    {\n      \"Product Code\": \"SHERRY/GON9\",\n      \"Product Description\": \"Sherry \\\\ Alcoholic Beverages Gonzalez Byass Sherry : 18% : Alfonso Oloroso Seco\",\n      \"Quantity Ordered\": \"1\"\n    },\n    {\n      \"Product Code\": \"BRBON/HOR1\",\n      \"Product Description\": \"Bourbon / American Whiskey \\\\ Alcoholic Beverages Horse With No Name Bourbon with Habanero Spirit : 45%\",\n      \"Quantity Ordered\": \"1\"\n    },\n    {\n      \"Product Code\": \"LIQ/KAK2\",\n      \"Product Description\": \"Liqueurs & Other \\\\ Alcoholic Beverages Kakuzo Cherry Bitter : 20%\",\n      \"Quantity Ordered\": \"2\"\n    },\n    {\n      \"Product Code\": \"WINE/RUB1\",\n      \"Product Description\": \"Flavoured Wine \\\\ Wine & Champagne Rubis Temperanillo : 15% : Chocolate Velvet Ruby\",\n      \"Quantity Ordered\": \"1\"\n    },\n    {\n      \"Product Code\": \"LIQ/EVA14\",\n      \"Product Description\": \"Liqueurs & Other \\\\ Alcoholic Beverages Evangelista Punch Abruzzo : Liqueur : 45%\",\n      \"Quantity Ordered\": \"1\"\n    },\n    {\n      \"Product Code\": \"VERMO/ZUC1\",\n      \"Product Description\": \"Alcoholic Beverages (Spirits, Liquers, etc.) \\\\ Drinks Zucca Rabarbaro (Italy) / 16%\",\n      \"Quantity Ordered\": \"1\"\n    },\n    {\n      \"Product Code\": \"BRANDY/SIN1\",\n      \"Product Description\": \"Brandy \\\\ Alcoholic Beverages Singani 63 : Brandy : 40% : (Bolivia)\",\n      \"Quantity Ordered\": \"3\"\n    },\n    {\n      \"Product Code\": \"EAU/EMP12\",\n      \"Product Description\": \"Liqueurs & Other \\\\ Alcoholic Beverages Empirical Spirits Symphony 6 : 40%\",\n      \"Quantity Ordered\": \"1\"\n    }\n  ],\n  \"Customer_Notes\": \"\",\n  \"Account_Code\": \"006013\",\n  \"Site_Name\": \"Oriole Bar Ltd\",\n  \"Purchaser_Name\": \"Samet Ali\",\n  \"order_type\": \"Order\"\n}"
+}

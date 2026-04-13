@@ -1,0 +1,34 @@
+{
+  "studio_id": 7,
+  "studio_name": "Acquire",
+  "document_id": 28,
+  "source_filename": "acquire_updatedcase.pdf",
+  "extracted_fields": {
+    "Customer_Name": "Incognito Bars",
+    "PO_Number": "INCOG14499670",
+    "PO_Date": "",
+    "Delivery_Address": "St Johns House, The Broadway, Winchester, SO23 9BE",
+    "Delivery_Date": "2025-12-03",
+    "Invoice_Address": "",
+    "Product_Details": [
+      {
+        "Product Code": "LIQ/MOU6",
+        "Product Description": "MK Quad Sec",
+        "Quantity Ordered": "3"
+      },
+      {
+        "Product Code": "LIQ/MAN1",
+        "Product Description": "Mandarine Napoleon",
+        "Quantity Ordered": "3"
+      }
+    ],
+    "Delivery_Address_Name": "Winchester",
+    "order_type": "Order"
+  },
+  "usage": {
+    "prompt_tokens": 3325,
+    "completion_tokens": 1524,
+    "total_tokens": 4849
+  },
+  "raw_output": "{\n  \"Customer_Name\": \"Incognito Bars\",\n  \"PO_Number\": \"INCOG14499670\",\n  \"PO_Date\": \"\",\n  \"Delivery_Address\": \"St Johns House, The Broadway, Winchester, SO23 9BE\",\n  \"Delivery_Date\": \"2025-12-03\",\n  \"Invoice_Address\": \"\",\n  \"Product_Details\": [\n    {\n      \"Product Code\": \"LIQ/MOU6\",\n      \"Product Description\": \"MK Quad Sec\",\n      \"Quantity Ordered\": \"3\"\n    },\n    {\n      \"Product Code\": \"LIQ/MAN1\",\n      \"Product Description\": \"Mandarine Napoleon\",\n      \"Quantity Ordered\": \"3\"\n    }\n    ],\n  \"Delivery_Address_Name\": \"Winchester\",\n  \"order_type\": \"Order\"\n}"
+}

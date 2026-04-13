@@ -1,0 +1,15 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+psycopg2-binary
+python-dotenv
+pydantic[email]
+alembic
+passlib[bcrypt]
+pyjwt[crypto]
+python-multipart
+openai
+streamlit
+requests
+pandas
+Pillow

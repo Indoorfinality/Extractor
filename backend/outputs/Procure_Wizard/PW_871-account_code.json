@@ -1,0 +1,47 @@
+{
+  "studio_id": 3,
+  "studio_name": "Procure Wizard",
+  "document_id": 7,
+  "source_filename": "PW_871-account code.pdf",
+  "extracted_fields": {
+    "Customer_Name": "Underdog Restaurants",
+    "PO_Number": "47048516",
+    "PO_Date": "2026-01-12",
+    "Delivery_Address": "10 Basinghall Street, London, London, EC2V 5BQ",
+    "Delivery_Date": "2026-01-13",
+    "Invoice_Address": "Unit B, Jack's Place, 6 Corbet Place, London, London, E1 6NN",
+    "Product_Details": [
+      {
+        "Product Code": "CALVA/SOM03YO",
+        "Product Description": "Brandy \\ Alcoholic Beverages Somerset Cider Brandy : 42% : 3 YO",
+        "Quantity Ordered": "1"
+      },
+      {
+        "Product Code": "VERMO/COC1",
+        "Product Description": "Martini/Vermouth \\ Alcoholic Beverages Cocchi Americno : Vermouth : 16.5%",
+        "Quantity Ordered": "1"
+      },
+      {
+        "Product Code": "VERMO/SAV2",
+        "Product Description": "Liqueurs & Other \\ Alcoholic Beverages Savoia Liqueur : 17.20% : Orancio",
+        "Quantity Ordered": "2"
+      },
+      {
+        "Product Code": "SPROB.15YO",
+        "Product Description": "Whisky \\ Alcoholic Beverages Springbank Whisky : 15YO : 46%",
+        "Quantity Ordered": "2"
+      }
+    ],
+    "Customer_Notes": "",
+    "Account_Code": "000871",
+    "Site_Name": "Hawksmoor Guildhall",
+    "Purchaser_Name": "Underdog Restaurant Limited (Hawksmoor)",
+    "order_type": "Order"
+  },
+  "usage": {
+    "prompt_tokens": 2519,
+    "completion_tokens": 3037,
+    "total_tokens": 5556
+  },
+  "raw_output": "{\n  \"Customer_Name\": \"Underdog Restaurants\",\n  \"PO_Number\": \"47048516\",\n  \"PO_Date\": \"2026-01-12\",\n  \"Delivery_Address\": \"10 Basinghall Street, London, London, EC2V 5BQ\",\n  \"Delivery_Date\": \"2026-01-13\",\n  \"Invoice_Address\": \"Unit B, Jack's Place, 6 Corbet Place, London, London, E1 6NN\",\n  \"Product_Details\": [\n    {\n      \"Product Code\": \"CALVA/SOM03YO\",\n      \"Product Description\": \"Brandy \\\\ Alcoholic Beverages Somerset Cider Brandy : 42% : 3 YO\",\n      \"Quantity Ordered\": \"1\"\n    },\n    {\n      \"Product Code\": \"VERMO/COC1\",\n      \"Product Description\": \"Martini/Vermouth \\\\ Alcoholic Beverages Cocchi Americno : Vermouth : 16.5%\",\n      \"Quantity Ordered\": \"1\"\n    },\n    {\n      \"Product Code\": \"VERMO/SAV2\",\n      \"Product Description\": \"Liqueurs & Other \\\\ Alcoholic Beverages Savoia Liqueur : 17.20% : Orancio\",\n      \"Quantity Ordered\": \"2\"\n    },\n    {\n      \"Product Code\": \"SPROB.15YO\",\n      \"Product Description\": \"Whisky \\\\ Alcoholic Beverages Springbank Whisky : 15YO : 46%\",\n      \"Quantity Ordered\": \"2\"\n    }\n  ],\n  \"Customer_Notes\": \"\",\n  \"Account_Code\": \"000871\",\n  \"Site_Name\": \"Hawksmoor Guildhall\",\n  \"Purchaser_Name\": \"Underdog Restaurant Limited (Hawksmoor)\",\n  \"order_type\": \"Order\"\n}"
+}

@@ -1,0 +1,55 @@
+{
+  "studio_id": 6,
+  "studio_name": "Marketman",
+  "document_id": 17,
+  "source_filename": "marketman_customer_code.pdf",
+  "extracted_fields": {
+    "Customer_Name": "SOMA Canary Wharf",
+    "PO_Number": "30132866",
+    "PO_Date": "2025-12-11",
+    "Delivery_Address": "",
+    "Delivery_Date": "2025-12-12",
+    "Invoice_Address": "",
+    "Product_Details": [
+      {
+        "Product Code": "BRBON/MAK1",
+        "Product Description": "Makers Mark (1 * 1 EA)",
+        "Quantity Ordered": "4"
+      },
+      {
+        "Product Code": "JAPAN/SUN15",
+        "Product Description": "Suntory Toki / 43% / 70cl (1 * 1 EA)",
+        "Quantity Ordered": "2"
+      },
+      {
+        "Product Code": "MEZCAL/AMA6",
+        "Product Description": "Mezcal Verde / 42% / 70cl (1 * 1 EA)",
+        "Quantity Ordered": "2"
+      },
+      {
+        "Product Code": "TEQLA/TAP1",
+        "Product Description": "Tapatio Blanco Tequila / 40% / 50cl (1 * 1 EA)",
+        "Quantity Ordered": "6"
+      },
+      {
+        "Product Code": "VODKA/DES1",
+        "Product Description": "Desi Mango Vodka (1 * 1 EA)",
+        "Quantity Ordered": "3"
+      },
+      {
+        "Product Code": "VODKA/HAK1",
+        "Product Description": "Haku Vodka / 40% / 70cl (1 * 1 EA)",
+        "Quantity Ordered": "2"
+      }
+    ],
+    "Account_Code": "005997",
+    "Delivery_Address_Name": "SOMA Canary Wharf",
+    "order_type": "Order"
+  },
+  "usage": {
+    "prompt_tokens": 2144,
+    "completion_tokens": 3151,
+    "total_tokens": 5295
+  },
+  "raw_output": "{\n  \"Customer_Name\": \"SOMA Canary Wharf\",\n  \"PO_Number\": \"30132866\",\n  \"PO_Date\": \"2025-12-11\",\n  \"Delivery_Address\": \"\",\n  \"Delivery_Date\": \"2025-12-12\",\n  \"Invoice_Address\": \"\",\n  \"Product_Details\": [\n    {\n      \"Product Code\": \"BRBON/MAK1\",\n      \"Product Description\": \"Makers Mark (1 * 1 EA)\",\n      \"Quantity Ordered\": \"4\"\n    },\n    {\n      \"Product Code\": \"JAPAN/SUN15\",\n      \"Product Description\": \"Suntory Toki / 43% / 70cl (1 * 1 EA)\",\n      \"Quantity Ordered\": \"2\"\n    },\n    {\n      \"Product Code\": \"MEZCAL/AMA6\",\n      \"Product Description\": \"Mezcal Verde / 42% / 70cl (1 * 1 EA)\",\n      \"Quantity Ordered\": \"2\"\n    },\n    {\n      \"Product Code\": \"TEQLA/TAP1\",\n      \"Product Description\": \"Tapatio Blanco Tequila / 40% / 50cl (1 * 1 EA)\",\n      \"Quantity Ordered\": \"6\"\n    },\n    {\n      \"Product Code\": \"VODKA/DES1\",\n      \"Product Description\": \"Desi Mango Vodka (1 * 1 EA)\",\n      \"Quantity Ordered\": \"3\"\n    },\n    {\n      \"Product Code\": \"VODKA/HAK1\",\n      \"Product Description\": \"Haku Vodka / 40% / 70cl (1 * 1 EA)\",\n      \"Quantity Ordered\": \"2\"\n    }\n  ],\n  \"Account_Code\": \"005997\",\n  \"Delivery_Address_Name\": \"SOMA Canary Wharf\",\n  \"order_type\": \"Order\"\n}"
+}

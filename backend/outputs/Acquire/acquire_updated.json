@@ -1,0 +1,49 @@
+{
+  "studio_id": 7,
+  "studio_name": "Acquire",
+  "document_id": 21,
+  "source_filename": "acquire_updated.pdf",
+  "extracted_fields": {
+    "Customer_Name": "New World Trading Company",
+    "PO_Number": "NWTC14753312",
+    "PO_Date": "",
+    "Delivery_Address": "St James Quarter, St Andrews Hall, Little King Street, Edinburgh, EH1 3AR",
+    "Delivery_Date": "2026-01-07",
+    "Invoice_Address": "",
+    "Product_Details": [
+      {
+        "Product_Code": "SOFT/SUP1",
+        "Product_Description": "SUPASAWA - 70cl Bot",
+        "Quantity_Ordered": "6"
+      },
+      {
+        "Product_Code": "COCKTAIL/PIC1",
+        "Product_Description": "THE PICKLE HOUSE SPICED TOMATO (BLOODY M - 20cl",
+        "Quantity_Ordered": "60"
+      },
+      {
+        "Product_Code": "SOFT/BOT4",
+        "Product_Description": "BOTIVO NON-ALCOHOLIC SPIRIT - 50cl Bot",
+        "Quantity_Ordered": "6"
+      },
+      {
+        "Product_Code": "SOFT/GIF1",
+        "Product_Description": "GIFFARD NA ELDERFLOWER LIQUEUR - 70cl Bot",
+        "Quantity_Ordered": "6"
+      },
+      {
+        "Product_Code": "RUM/SMI1",
+        "Product_Description": "SMITH and CROSS - 70cl Bot",
+        "Quantity_Ordered": "6"
+      }
+    ],
+    "Delivery_Address_Name": "Botanist Edinburgh",
+    "order_type": "Order"
+  },
+  "usage": {
+    "prompt_tokens": 2355,
+    "completion_tokens": 2372,
+    "total_tokens": 4727
+  },
+  "raw_output": "{\n  \"Customer_Name\": \"New World Trading Company\",\n  \"PO_Number\": \"NWTC14753312\",\n  \"PO_Date\": \"\",\n  \"Delivery_Address\": \"St James Quarter, St Andrews Hall, Little King Street, Edinburgh, EH1 3AR\",\n  \"Delivery_Date\": \"2026-01-07\",\n  \"Invoice_Address\": \"\",\n  \"Product_Details\": [\n    {\n      \"Product_Code\": \"SOFT/SUP1\",\n      \"Product_Description\": \"SUPASAWA - 70cl Bot\",\n      \"Quantity_Ordered\": \"6\"\n    },\n    {\n      \"Product_Code\": \"COCKTAIL/PIC1\",\n      \"Product_Description\": \"THE PICKLE HOUSE SPICED TOMATO (BLOODY M - 20cl\",\n      \"Quantity_Ordered\": \"60\"\n    },\n    {\n      \"Product_Code\": \"SOFT/BOT4\",\n      \"Product_Description\": \"BOTIVO NON-ALCOHOLIC SPIRIT - 50cl Bot\",\n      \"Quantity_Ordered\": \"6\"\n    },\n    {\n      \"Product_Code\": \"SOFT/GIF1\",\n      \"Product_Description\": \"GIFFARD NA ELDERFLOWER LIQUEUR - 70cl Bot\",\n      \"Quantity_Ordered\": \"6\"\n    },\n    {\n      \"Product_Code\": \"RUM/SMI1\",\n      \"Product_Description\": \"SMITH and CROSS - 70cl Bot\",\n      \"Quantity_Ordered\": \"6\"\n    }\n  ],\n  \"Delivery_Address_Name\": \"Botanist Edinburgh\",\n  \"order_type\": \"Order\"\n}"
+}

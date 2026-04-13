@@ -1,0 +1,145 @@
+{
+  "studio_id": 9,
+  "studio_name": "Notify",
+  "document_id": 34,
+  "source_filename": "Order_Cubitt_House_23_03_2026.pdf",
+  "extracted_fields": {
+    "Customer_Name": "Cubitt_House",
+    "PO_Number": "TOB00587",
+    "PO_Date": "2026-03-23",
+    "Delivery_Address": "The Orange, The Orange Beverage, 37 Pimlico Rd, London, SW1W8NE, United Kingdom",
+    "Delivery_Date": "2026-03-24",
+    "Invoice_Address": "Cubitt House Ltd T/A The Orange, The Orange Beverage, 37 Pimlico Rd, London, SW1W8NE, United Kingdom",
+    "Product_Details": [
+      {
+        "Product Code": "COGNC/FAN1",
+        "Product Description": "Fanny Fougerat Petite Cigue VSOP 0.7L(1 x 700ML)",
+        "Quantity Ordered": "1"
+      },
+      {
+        "Product Code": "LIQ/ALM1",
+        "Product Description": "Alma Finca Orange Liqueur 0.7L(1 x 700ML)",
+        "Quantity Ordered": "4"
+      },
+      {
+        "Product Code": "SYRUP/AQU1",
+        "Product Description": "Aqua Riva Agave Syrup 250ml(1 x 250ML)",
+        "Quantity Ordered": "6"
+      },
+      {
+        "Product Code": "VERMO/AST2",
+        "Product Description": "Asterley Bros Estate Red Vermouth 0.5L(1 x 500ML)",
+        "Quantity Ordered": "4"
+      },
+      {
+        "Product Code": "VERMO/AST5",
+        "Product Description": "Asterley Bros Schofields Dry Vermouth 0.5L(1 x 500ML)",
+        "Quantity Ordered": "2"
+      },
+      {
+        "Product Code": "LIQ/BAI1",
+        "Product Description": "Baileys Irish Cream 0.7L(1 x 700ML)",
+        "Quantity Ordered": "1"
+      },
+      {
+        "Product Code": "SYRUP/BRI15",
+        "Product Description": "Bristol Syrup Vanilla 0.75L(1 x 750ML)",
+        "Quantity Ordered": "1"
+      },
+      {
+        "Product Code": "VERMO/CAM1",
+        "Product Description": "Campari 0.7L(1 x 700ML)",
+        "Quantity Ordered": "2"
+      },
+      {
+        "Product Code": "TEQLA/CAZ4",
+        "Product Description": "Cazcabel Blanco 0.7L(1 x 700ML)",
+        "Quantity Ordered": "12"
+      },
+      {
+        "Product Code": "TEQLA/CAZ5",
+        "Product Description": "Cazcabel Tequila Reposado 0.7L(1 x 700ML)",
+        "Quantity Ordered": "2"
+      },
+      {
+        "Product Code": "TEQLA/DON3",
+        "Product Description": "Don Julio Reposado Tequila / 38% / 70clBtl(1 x Btl700ML)",
+        "Quantity Ordered": "2"
+      },
+      {
+        "Product Code": "GIN/FOU11",
+        "Product Description": "Four Pillars Olive Leaf Gin 0.7L(1 x 700ML)",
+        "Quantity Ordered": "1"
+      },
+      {
+        "Product Code": "GIN/HAY16",
+        "Product Description": "Hayman's London Dry Gin 0.7LBag(1 x Bag5LT)",
+        "Quantity Ordered": "2"
+      },
+      {
+        "Product Code": "EAU/HAY1",
+        "Product Description": "Hayman's London Light 12.5% 0.7L(1 x 700ML)",
+        "Quantity Ordered": "1"
+      },
+      {
+        "Product Code": "GIN/HAY1",
+        "Product Description": "Hayman's Old Tom Gin 0.7LBtl(1 x Btl700ML)",
+        "Quantity Ordered": "1"
+      },
+      {
+        "Product Code": "GIN/HEP1",
+        "Product Description": "Hepple Gin 0.7L(1 x 700ML)",
+        "Quantity Ordered": "1"
+      },
+      {
+        "Product Code": "FOOD/JAC3",
+        "Product Description": "Jack Rudy Bourbon Cocktail Cherries(1 x 1EA)",
+        "Quantity Ordered": "1"
+      },
+      {
+        "Product Code": "LIQ/KAV1",
+        "Product Description": "Kaveri Organic Ginger Liqueur 0.5L(1 x 500ML)",
+        "Quantity Ordered": "2"
+      },
+      {
+        "Product Code": "MEZCAL/LOS20",
+        "Product Description": "Lost Explorer Mezcal Espadin 0.7L(1 x 700ML)",
+        "Quantity Ordered": "1"
+      },
+      {
+        "Product Code": "GIN/MIR1",
+        "Product Description": "Mirabeau Rose Dry Gin 0.7L(1 x 700ML)",
+        "Quantity Ordered": "1"
+      },
+      {
+        "Product Code": "SOFT/PEN1",
+        "Product Description": "Pentire Adrift 0.7L(1 x 700ML)",
+        "Quantity Ordered": "2"
+      },
+      {
+        "Product Code": "SOFT/PEN5",
+        "Product Description": "Pentire Coastal Spritz Non-Alcoholic Aperitif 0.7L(1 x 700ML)",
+        "Quantity Ordered": "2"
+      },
+      {
+        "Product Code": "VODKA/RES2",
+        "Product Description": "Respirited Sustainable British Vodka 0.7LBag(1 x Bag5LT)",
+        "Quantity Ordered": "2"
+      },
+      {
+        "Product Code": "LIQ/SOM2",
+        "Product Description": "Somerset Morello Cherry Liqueur 0.5LBtl(1 x Btl500ML)",
+        "Quantity Ordered": "1"
+      }
+    ],
+    "Account_Code": "",
+    "Delivery_Address_Name": "Cubitt_House",
+    "order_type": "Order"
+  },
+  "usage": {
+    "prompt_tokens": 2953,
+    "completion_tokens": 7190,
+    "total_tokens": 10143
+  },
+  "raw_output": "{\n  \"Customer_Name\": \"Cubitt_House\",\n  \"PO_Number\": \"TOB00587\",\n  \"PO_Date\": \"2026-03-23\",\n  \"Delivery_Address\": \"The Orange, The Orange Beverage, 37 Pimlico Rd, London, SW1W8NE, United Kingdom\",\n  \"Delivery_Date\": \"2026-03-24\",\n  \"Invoice_Address\": \"Cubitt House Ltd T/A The Orange, The Orange Beverage, 37 Pimlico Rd, London, SW1W8NE, United Kingdom\",\n  \"Product_Details\": [\n    {\n      \"Product Code\": \"COGNC/FAN1\",\n      \"Product Description\": \"Fanny Fougerat Petite Cigue VSOP 0.7L(1 x 700ML)\",\n      \"Quantity Ordered\": \"1\"\n    },\n    {\n      \"Product Code\": \"LIQ/ALM1\",\n      \"Product Description\": \"Alma Finca Orange Liqueur 0.7L(1 x 700ML)\",\n      \"Quantity Ordered\": \"4\"\n    },\n    {\n      \"Product Code\": \"SYRUP/AQU1\",\n      \"Product Description\": \"Aqua Riva Agave Syrup 250ml(1 x 250ML)\",\n      \"Quantity Ordered\": \"6\"\n    },\n    {\n      \"Product Code\": \"VERMO/AST2\",\n      \"Product Description\": \"Asterley Bros Estate Red Vermouth 0.5L(1 x 500ML)\",\n      \"Quantity Ordered\": \"4\"\n    },\n    {\n      \"Product Code\": \"VERMO/AST5\",\n      \"Product Description\": \"Asterley Bros Schofields Dry Vermouth 0.5L(1 x 500ML)\",\n      \"Quantity Ordered\": \"2\"\n    },\n    {\n      \"Product Code\": \"LIQ/BAI1\",\n      \"Product Description\": \"Baileys Irish Cream 0.7L(1 x 700ML)\",\n      \"Quantity Ordered\": \"1\"\n    },\n    {\n      \"Product Code\": \"SYRUP/BRI15\",\n      \"Product Description\": \"Bristol Syrup Vanilla 0.75L(1 x 750ML)\",\n      \"Quantity Ordered\": \"1\"\n    },\n    {\n      \"Product Code\": \"VERMO/CAM1\",\n      \"Product Description\": \"Campari 0.7L(1 x 700ML)\",\n      \"Quantity Ordered\": \"2\"\n    },\n    {\n      \"Product Code\": \"TEQLA/CAZ4\",\n      \"Product Description\": \"Cazcabel Blanco 0.7L(1 x 700ML)\",\n      \"Quantity Ordered\": \"12\"\n    },\n    {\n      \"Product Code\": \"TEQLA/CAZ5\",\n      \"Product Description\": \"Cazcabel Tequila Reposado 0.7L(1 x 700ML)\",\n      \"Quantity Ordered\": \"2\"\n    },\n    {\n      \"Product Code\": \"TEQLA/DON3\",\n      \"Product Description\": \"Don Julio Reposado Tequila / 38% / 70clBtl(1 x Btl700ML)\",\n      \"Quantity Ordered\": \"2\"\n    },\n    {\n      \"Product Code\": \"GIN/FOU11\",\n      \"Product Description\": \"Four Pillars Olive Leaf Gin 0.7L(1 x 700ML)\",\n      \"Quantity Ordered\": \"1\"\n    },\n    {\n      \"Product Code\": \"GIN/HAY16\",\n      \"Product Description\": \"Hayman's London Dry Gin 0.7LBag(1 x Bag5LT)\",\n      \"Quantity Ordered\": \"2\"\n    },\n    {\n      \"Product Code\": \"EAU/HAY1\",\n      \"Product Description\": \"Hayman's London Light 12.5% 0.7L(1 x 700ML)\",\n      \"Quantity Ordered\": \"1\"\n    },\n    {\n      \"Product Code\": \"GIN/HAY1\",\n      \"Product Description\": \"Hayman's Old Tom Gin 0.7LBtl(1 x Btl700ML)\",\n      \"Quantity Ordered\": \"1\"\n    },\n    {\n      \"Product Code\": \"GIN/HEP1\",\n      \"Product Description\": \"Hepple Gin 0.7L(1 x 700ML)\",\n      \"Quantity Ordered\": \"1\"\n    },\n    {\n      \"Product Code\": \"FOOD/JAC3\",\n      \"Product Description\": \"Jack Rudy Bourbon Cocktail Cherries(1 x 1EA)\",\n      \"Quantity Ordered\": \"1\"\n    },\n    {\n      \"Product Code\": \"LIQ/KAV1\",\n      \"Product Description\": \"Kaveri Organic Ginger Liqueur 0.5L(1 x 500ML)\",\n      \"Quantity Ordered\": \"2\"\n    },\n    {\n      \"Product Code\": \"MEZCAL/LOS20\",\n      \"Product Description\": \"Lost Explorer Mezcal Espadin 0.7L(1 x 700ML)\",\n      \"Quantity Ordered\": \"1\"\n    },\n    {\n      \"Product Code\": \"GIN/MIR1\",\n      \"Product Description\": \"Mirabeau Rose Dry Gin 0.7L(1 x 700ML)\",\n      \"Quantity Ordered\": \"1\"\n    },\n    {\n      \"Product Code\": \"SOFT/PEN1\",\n      \"Product Description\": \"Pentire Adrift 0.7L(1 x 700ML)\",\n      \"Quantity Ordered\": \"2\"\n    },\n    {\n      \"Product Code\": \"SOFT/PEN5\",\n      \"Product Description\": \"Pentire Coastal Spritz Non-Alcoholic Aperitif 0.7L(1 x 700ML)\",\n      \"Quantity Ordered\": \"2\"\n    },\n    {\n      \"Product Code\": \"VODKA/RES2\",\n      \"Product Description\": \"Respirited Sustainable British Vodka 0.7LBag(1 x Bag5LT)\",\n      \"Quantity Ordered\": \"2\"\n    },\n    {\n      \"Product Code\": \"LIQ/SOM2\",\n      \"Product Description\": \"Somerset Morello Cherry Liqueur 0.5LBtl(1 x Btl500ML)\",\n      \"Quantity Ordered\": \"1\"\n    }\n  ],\n  \"Account_Code\": \"\",\n  \"Delivery_Address_Name\": \"Cubitt_House\",\n  \"order_type\": \"Order\"\n}"
+}

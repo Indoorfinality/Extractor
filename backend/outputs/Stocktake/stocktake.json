@@ -1,0 +1,44 @@
+{
+  "studio_id": 4,
+  "studio_name": "Stocktake",
+  "document_id": 9,
+  "source_filename": "stocktake.pdf",
+  "extracted_fields": {
+    "Customer_Name": "MERAKI - BAR",
+    "PO_Number": "SPED_360",
+    "PO_Date": "2025-06-11",
+    "Delivery_Address": "MERAKI - BAR, 80-82 Great Titchfield Street, W1W 7QT",
+    "Delivery_Date": "2025-06-12",
+    "Invoice_Address": "",
+    "Product_Details": [
+      {
+        "Product_Code": "",
+        "Product_Description": "Asterley Bros Bartender Red, 1 BTL X 70 CL",
+        "Quantity_Ordered": "2 BTL"
+      },
+      {
+        "Product_Code": "GIN/HEN1",
+        "Product_Description": "Hendrick's, 1 BTL X 70 CL",
+        "Quantity_Ordered": "12 BTL"
+      },
+      {
+        "Product_Code": "",
+        "Product_Description": "Pimm's No. 1 Cup, 1 BTL X 70 CL",
+        "Quantity_Ordered": "1 BTL"
+      },
+      {
+        "Product_Code": "LIQ/APE1",
+        "Product_Description": "Aperol, 1 BTL X 70 CL",
+        "Quantity_Ordered": "1 BTL"
+      }
+    ],
+    "Delivery_Address_Name": "MERAKI - BAR",
+    "order_type": "Order"
+  },
+  "usage": {
+    "prompt_tokens": 2444,
+    "completion_tokens": 2799,
+    "total_tokens": 5243
+  },
+  "raw_output": "{\n  \"Customer_Name\": \"MERAKI - BAR\",\n  \"PO_Number\": \"SPED_360\",\n  \"PO_Date\": \"2025-06-11\",\n  \"Delivery_Address\": \"MERAKI - BAR, 80-82 Great Titchfield Street, W1W 7QT\",\n  \"Delivery_Date\": \"2025-06-12\",\n  \"Invoice_Address\": \"\",\n  \"Product_Details\": [\n    {\n      \"Product_Code\": \"\",\n      \"Product_Description\": \"Asterley Bros Bartender Red, 1 BTL X 70 CL\",\n      \"Quantity_Ordered\": \"2 BTL\"\n    },\n    {\n      \"Product_Code\": \"GIN/HEN1\",\n      \"Product_Description\": \"Hendrick's, 1 BTL X 70 CL\",\n      \"Quantity_Ordered\": \"12 BTL\"\n    },\n    {\n      \"Product_Code\": \"\",\n      \"Product_Description\": \"Pimm's No. 1 Cup, 1 BTL X 70 CL\",\n      \"Quantity_Ordered\": \"1 BTL\"\n    },\n    {\n      \"Product_Code\": \"LIQ/APE1\",\n      \"Product_Description\": \"Aperol, 1 BTL X 70 CL\",\n      \"Quantity_Ordered\": \"1 BTL\"\n    }\n  ],\n  \"Delivery_Address_Name\": \"MERAKI - BAR\",\n  \"order_type\": \"Order\"\n}"
+}

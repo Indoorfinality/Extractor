@@ -1,0 +1,32 @@
+{
+  "studio_id": 3,
+  "studio_name": "Procure Wizard",
+  "document_id": 33,
+  "source_filename": "procurewizard_cancelled.pdf",
+  "extracted_fields": {
+    "Customer_Name": "MALMAISON TRADING LTD",
+    "PO_Number": "45988971",
+    "PO_Date": "2025-11-15",
+    "Delivery_Address": "3 Oxford Castle, Oxford, OX1 1AY",
+    "Delivery_Date": "2025-11-18",
+    "Invoice_Address": "3 Oxford Castle, Oxford, OX1 1AY",
+    "Product_Details": [
+      {
+        "Product Code": "LIQ/BRI/ANA1",
+        "Product Description": "Liqueurs & Other \\ Alcoholic Beverages Briottet Pineapple : 18%",
+        "Quantity Ordered": "0"
+      }
+    ],
+    "Customer_Notes": "",
+    "Account_Code": "001255",
+    "Site_Name": "Malmaison Oxford",
+    "Purchaser_Name": "Kuljit Saini",
+    "order_type": "Cancelled "
+  },
+  "usage": {
+    "prompt_tokens": 2662,
+    "completion_tokens": 2821,
+    "total_tokens": 5483
+  },
+  "raw_output": "{\n  \"Customer_Name\": \"MALMAISON TRADING LTD\",\n  \"PO_Number\": \"45988971\",\n  \"PO_Date\": \"2025-11-15\",\n  \"Delivery_Address\": \"3 Oxford Castle, Oxford, OX1 1AY\",\n  \"Delivery_Date\": \"2025-11-18\",\n  \"Invoice_Address\": \"3 Oxford Castle, Oxford, OX1 1AY\",\n  \"Product_Details\": [\n    {\n      \"Product Code\": \"LIQ/BRI/ANA1\",\n      \"Product Description\": \"Liqueurs & Other \\\\ Alcoholic Beverages Briottet Pineapple : 18%\",\n      \"Quantity Ordered\": \"0\"\n    }\n  ],\n  \"Customer_Notes\": \"\",\n  \"Account_Code\": \"001255\",\n  \"Site_Name\": \"Malmaison Oxford\",\n  \"Purchaser_Name\": \"Kuljit Saini\",\n  \"order_type\": \"Cancelled \"\n}"
+}
